@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package sv.edu.ues.fmocc.ingenieria.tpi135.mantenimiento.mantenimientoremotelib.entity;
+package sv.edu.ues.fmocc.ingenieria.tpi135.mantenimiento.mantenimientolib.entity;
 
 import java.io.Serializable;
 import javax.persistence.Basic;
